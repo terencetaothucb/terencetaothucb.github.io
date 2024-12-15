@@ -31,8 +31,9 @@ I have pubulished serveral research papers on Nature Catalysis, Nature Communica
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Energy and Enviromental Science 2024</div><img src=![TOC](https://github.com/user-attachments/assets/0d7a783e-ec88-4a79-9204-24f7f86aac8f) alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
@@ -55,7 +56,6 @@ I have pubulished serveral research papers on Nature Catalysis, Nature Communica
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - 
-# 📖 Demo
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
