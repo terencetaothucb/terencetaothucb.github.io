@@ -20,11 +20,15 @@ redirect_from:
 I received my B.S, M.S degree (with honors) in Eelectrical Engineerging and Automation, Eelectrical and Control Engineerging from Shanghai Ocean University and Fudan University, China, in 2019 and 2022, respectively. I’m current pursing my Ph.D. degree on the interface of energy sotrage and power systems, electrochemistry and aritificail intelligence (AI), sponsored by a joint training program from Tsinghua University and UC Berkeley. I work with Prof. Xuan Zhang, Guangmin Zhou, Scott Moura and Hongbin Sun with a balanced focus on real wolrd applicaiton and theoretical depth. I was also a research intern in Tencent AI Lab and Microsoft Research Asia (MSRA). 
 
 My research interest includes AI-enabled applications for sustainable use of retired electric vehicle batteries (reuse and recycling), e.g., power grid energy storage and strategical material recycling.
-Special attention is paid to state estimation and aging pattern diagnosis under limited and heterogeneous data availability. (You can also use google scholar badge <a href='https://scholar.google.com/citations?hl=zh-CN&user=MHzCCogAAAAJ&view_op=list_works'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Special attention is paid to state estimation and aging pattern diagnosis under limited and heterogeneous data availability. I also work closely with material scientist on AI for Science (AI4S) topics.
+
+I have pubulished serveral research papers on Nature Catalysis, Nature Communications, Energy & Envriromental Science, ACS Energy Letters, Journal of Power Sources and Applied Energy. <a href='https://scholar.google.com/citations?hl=zh-CN&user=MHzCCogAAAAJ&view_op=list_works'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.12*: &nbsp;🎉🎉 I am attending [The 3rd Battery Sustainability Workshop 2024](https://www.batterysustain.center/2024-workshop).
+- 
+- *2024.09*: &nbsp;🎉🎉 I am visiting Energy, Controls and Application Lab (eCAL) at UC Berkeley, working with Prof. [Scott Moura](https://scholar.google.com/citations?user=5sLngc0AAAAJ&hl=zh-CN).  
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
