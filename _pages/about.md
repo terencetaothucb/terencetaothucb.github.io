@@ -30,8 +30,48 @@ I have pubulished serveral research papers on Nature Catalysis, Nature Communica
 
 
 # 📝 Publications 
-
-- [J1] **Tao, S.**, Ma, R., Zhao, Z. et al. Generative learning assisted state-of-health estimation for sustainable battery recycling with random retirement conditions. _Nature Communications_ **15**, 10154 (2024). https://doi.org/10.1038/s41467-024-54454-0
+- [J15] **Tao, S.**, Ma, R., Zhao, Z. et al. Generative learning assisted state-of-health estimation for sustainable battery recycling with random retirement conditions. _Nature Communications_ **15**, 10154 (2024). Click to [view](https://doi.org/10.1038/s41467-024-54454-0). 
+- [J14] Ma, R., **Tao, S.** et al. Pathway decisions for reuse and recycling of retired lithium-ion batteries considering economic
+and environmental functions. _Nature Communications_ **15**, 7641 (2024). Click to [view](https://doi.org:10.1038/s41467-024-52030-0).
+- [J13] **Tao, S.** et al. Rapid and sustainable battery health diagnosis for recycling pretreatment using fast pulse test and
+random forest machine learning. _Journal of Power Sources_ **597**, 234156 (2024). Click to [view](https://doi.org/10.1016/j.jpowsour.2024.234156).
+- [J12] **Tao, S.**, Liu, H., Sun, C. et al. Collaborative and privacy-preserving retired battery sorting for profitable direct
+recycling via federated machine learning. _Nature Communications_ **14**, 8032 (2023). Click to [view](https://doi.org:10.1038/s41467-023-43883-y), selected as Editor’s highlight paper and the Focus paper.
+- [J11] **Tao, S.**, Sun, C., Fu, S. et al. Battery Cross-Operation-Condition Lifetime Prediction via Interpretable Feature
+Engineering Assisted Adaptive Machine Learning. _ACS Energy Letters_ **8**, 3269-3279 (2023). Click to [view](
+https://doi.org:10.1021/acsenergylett.3c01012)
+- [J10] **Tao, S.** et al. The proactive maintenance for the irreversible sulfation in lead-based energy storage systems with a
+novel resonance method. _Journal of Energy Storage_ **42**, 103093 (2021). Click to [view](
+https://doi.org:https://doi.org/10.1016/j.est.2021.103093)
+- [J9] Fu, S, **Tao, S.** et al. Data-driven capacity estimation for lithium-ion batteries with feature matching based transfer
+learning method. _Applied Energy_ **353**, 121991 (2024). Click to [view](https://doi.org:https://doi.org/10.1016/j.apenergy.2023.121991)
+- [J8] Han, Z., Gao, R., Wang, T., **Tao, S.** et al. Machine-learning-assisted design of a binary descriptor to decipher
+electronic and structural effects on sulfur reduction kinetics. _Nature Catalysis_ **6**, 1073-1086 (2023). Click to [view](
+https://doi.org:10.1038/s41929-023-01041-z)
+- [J7] **Tao, S.** et al. Behavioral Economics Optimized Renewable Power Grid: A Case Study of Household Energy
+Storage. _Energies_ **14**, 4154 (2021). Click to [view](https://www.mdpi.com/1996-1073/14/14/4154)
+- [J6] Talihati, B., **Tao, S.** et al. Energy storage sharing in residential communities with controllable loads for enhanced
+operational efficiency and profitability. _Applied Energy_ **373**, 123880 (2024). Click to [view](https://doi.org:https://doi.org/10.1016/j.apenergy.2024.123880)
+- [J5] Liu, X., **Tao, S.** et al. Binary multi-frequency signal for accurate and rapid electrochemical impedance spectroscopy
+acquisition in lithium-ion batteries. _Applied Energy_ **364**, 123221 (2024). Click to [view](https://doi.org/10.1016/j.apenergy.2024.123221)
+- [J4] He, K. , **Tao, S.** et al. A Novel Quick Screening Method for the Second Usage of Parallel-connected Lithium-ion
+Cells Based on the Current Distribution. _Journal of The Electrochemical Society_ **170**, 030514 (2023). Click to [view](
+https://doi.org:10.1149/1945-7111/acbf7e)
+- [J3] Li, T. , **Tao, S.** et al. V2G Multi-Objective Dispatching Optimization Strategy Based on User Behavior Model.
+_Frontiers in Energy Research_ **9** (2021). Click to [view](https://doi.org:10.3389/fenrg.2021.739527)
+- [J2] Hu, M. , **Tao, S.** et al. Non-Intrusive Load Monitoring for Residential Appliances with Ultra-Sparse Sample and
+Real-Time Computation. _Sensors_ **21**, 5366 (2021). Click to [view](https://www.mdpi.com/1424-8220/21/16/5366)
+- [J1] T. Cao, Y. Xu, G. Liu, **Tao, S.** et al. Feature-enhanced deep learning method for electric vehicle charging demand
+probabilistic forecasting of charging station. _Applied Energy_ **371**, 123751 (2024). Click to [view](https://doi.org:https://doi.org/10.1016/j.apenergy.2024.123751)
+- [S6] **Tao, S.**, Zhao, Z., Zhang, M., et al., Non-destructive degradation pattern decoupling for early battery trajectory prediction via physics-informed learning. Submitted to _Energy and Environmental Science_, 1st revision.
+- [S5] **Tao, S.**, et al., Immediate remaining capacity estimation of heterogeneous retired lithium-ion batteries via deep
+generative transfer learning. Submitted
+- [S4] **Tao, S.**, et al., The role of hysteresis effect in battery energy storage systems on supporting grid frequency stability.
+Submitted to Power & Energy Society General Meeting (PESGM)
+- [S3] **Tao, S.**, et al., Artificial intelligence for sustainable battery reuse, recycling, and remanufacturing. Submitted
+- [S2] Piao, Z., Han, Z., **Tao, S.**, et al., Deciphering failure trajectories in lithium metal anodes through electrochemical
+curve fingerprint. Submitted
+- [S1] Han, Z., **Tao, S.**, Jia, Y., et al., Discovering catalysis principles by crowd intelligence. Submitted
 
 # 🎖 Honors and Awards
 - *2024.12*: &nbsp;🎉🎉🎉 I am gratned the [Dazhong Wang](https://en.wikipedia.org/wiki/Wang_Dazhong) Scholarship [王大中学金] (0.01%). 
@@ -48,5 +88,5 @@ I have pubulished serveral research papers on Nature Catalysis, Nature Communica
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
+# 💻 Intern
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
