@@ -26,9 +26,9 @@ I have pubulished serveral research papers on **Nature Catalysis**, **Nature Com
 
 # 🔥 News
 - *2024.12*: &nbsp;🪫♻️🔋 I am attending [The 3rd Battery Sustainability Workshop 2024](https://www.batterysustain.center/2024-workshop) initiated by Prof. [Martin Bazant](https://scholar.google.com.hk/citations?user=rcGnOdYAAAAJ&hl=en) and others at MIT.  \| [\[pic\]](https://drive.google.com/file/d/14xUQYq3QcvdpD6LN1pStaofJfEMAfdLi/view?usp=drive_link)
-- *2024.11*: &nbsp;🎉🎉🎉 Our project **Large Scale Rapid Internal State Estimation Technology and Applications for Sustainable Utilization of Retired Batteries** are granted the **first prize (rank 1st)** in the 3rd China Postgraduate “Carbon Peak and Carbon Neutrality” Innovation and Creativity Competition, hosted by China Postgraduate Innovation & Practice Competition Series ([CPIPC](https://cpipc.acge.org.cn/)).  \| [\[link\]](https://mp.weixin.qq.com/s/ZsflAzA3QusH4liDsUu-5g).
+- *2024.11*: &nbsp;🎉🎉🎉 Our project **Large Scale Rapid Internal State Estimation Technology and Applications for Sustainable Utilization of Retired Batteries** are granted the **first prize (rank 1st)** in the 3rd China Postgraduate “Carbon Peak and Carbon Neutrality” Innovation and Creativity Competition, hosted by China Postgraduate Innovation &amp Practice Competition Series ([CPIPC](https://cpipc.acge.org.cn/)).  \| [\[link\]](https://mp.weixin.qq.com/s/ZsflAzA3QusH4liDsUu-5g).
 **Special congratulations to Prof. Xuan Zhang for the Excellent Supervisor Award!** \| [\[pic\]](https://drive.google.com/file/d/1zrMu6KMKgSWA270YqsBsjzbb8QS60vU9/view?usp=drive_link)
-- *2024.09*: &nbsp;🎉🎉🎉 I am visiting Energy, Controls and Application Lab (eCAL) at UC Berkeley, working with Prof. [Scott Moura](https://scholar.google.com/citations?user=5sLngc0AAAAJ&hl=zh-CN). 
+- *2024.09*: &nbsp;🎉🎉🎉 I am visiting Energy, Controls and Applications Lab (eCAL) at UC Berkeley, working with Prof. [Scott Moura](https://scholar.google.com/citations?user=5sLngc0AAAAJ&hl=zh-CN). 
 
 # 📝 Publications 
 J = Journal, S = Submitted
@@ -49,7 +49,7 @@ J = Journal, S = Submitted
 - [J1] T. Cao, Y. Xu, G. Liu, **Tao, S.** et al. Feature-enhanced deep learning method for electric vehicle charging demand probabilistic forecasting of charging station. _Applied Energy_ **371**, 123751 (2024). Click to [view](https://www.sciencedirect.com/science/article/abs/pii/S0306261924011346).
 - [S6] **Tao, S.**, Zhao, Z., Zhang, M., et al., Non-destructive degradation pattern decoupling for early battery trajectory prediction via physics-informed learning. Submitted to _Energy and Environmental Science_, 1st revision.
 - [S5] **Tao, S.**, et al., Immediate remaining capacity estimation of heterogeneous retired lithium-ion batteries via deep generative transfer learning. 
-- [S4] **Tao, S.**, et al., The role of hysteresis effect in battery energy storage systems on supporting grid frequency stability. Power \& Energy Society General Meeting (PESGM)
+- [S4] **Tao, S.**, et al., The role of hysteresis effect in battery energy storage systems on supporting grid frequency stability. Power &amp Energy Society General Meeting (PESGM)
 - [S3] **Tao, S.**, et al., Artificial intelligence for sustainable battery reuse, recycling, and remanufacturing. 
 - [S2] Piao, Z., Han, Z., **Tao, S.**, et al., Deciphering failure trajectories in lithium metal anodes through electrochemical curve fingerprint. 
 - [S1] Han, Z., **Tao, S.**, Jia, Y., et al., Discovering catalysis principles by crowd intelligence. 
@@ -67,7 +67,7 @@ Supervised by Prof. Guangmin Zhou and Xuan Zhang
 Ph.D. candidate in Electrical Engineering **GPA: 3.9/4.0**
 - *2024.09 - now*, UC Berkeley, CA, USA
 Supervised by Prof. Scott J. Moura
-Visiting Research Scholar in Energy, Control and Application Lab (eCAL)
+Visiting Research Scholar in Energy, Controls and Applications Lab (eCAL)
 - *2019.09 - 2022.6*, Fudan University, Shanghai, China
 Supervised by Prof. Yaojie Sun
 M.S. Electrical and Control Engineering(with honors) **GPA: 3.85/4.0** (**1/64**)
