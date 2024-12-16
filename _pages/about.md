@@ -32,7 +32,7 @@ I have pubulished serveral research papers on Nature Catalysis, Nature Communica
 - [J15] **Tao, S.**, Ma, R., Zhao, Z. et al. Generative learning assisted state-of-health estimation for sustainable battery recycling with random retirement conditions. _Nature Communications_ **15**, 10154 (2024). Click to [view](https://www.nature.com/articles/s41467-024-54454-0). 
 - [J14] Ma, R., **Tao, S.** et al. Pathway decisions for reuse and recycling of retired lithium-ion batteries considering economic and environmental functions. _Nature Communications_ **15**, 7641 (2024). Click to [view](https://www.nature.com/articles/s41467-024-52030-0).
 - [J13] **Tao, S.** et al. Rapid and sustainable battery health diagnosis for recycling pretreatment using fast pulse test and random forest machine learning. _Journal of Power Sources_ **597**, 234156 (2024). Click to [view](https://doi.org/10.1016/j.jpowsour.2024.234156).
-- [J12] **Tao, S.**, Liu, H., Sun, C. et al. Collaborative and privacy-preserving retired battery sorting for profitable direct recycling via federated machine learning. _Nature Communications_ **14**, 8032 (2023). Click to [view](https://www.nature.com/articles/s41467-023-43883-y), selected as **Editor’s highlight paper** and the **Focus paper**.
+- [J12] **Tao, S.**, Liu, H., Sun, C. et al. Collaborative and privacy-preserving retired battery sorting for profitable direct recycling via federated machine learning. _Nature Communications_ **14**, 8032 (2023). Click to [view](https://www.nature.com/articles/s41467-023-43883-y), selected as **[Editor’s highlight](https://www.nature.com/collections/bchahibchi) paper** and the **[Focus](https://www.nature.com/collections/dmmhtcypsc) paper**.
 - [J11] **Tao, S.**, Sun, C., Fu, S. et al. Battery Cross-Operation-Condition Lifetime Prediction via Interpretable Feature Engineering Assisted Adaptive Machine Learning. _ACS Energy Letters_ **8**, 3269-3279 (2023). Click to [view](https://pubs.acs.org/doi/10.1021/acsenergylett.3c01012).
 - [J10] **Tao, S.** et al. The proactive maintenance for the irreversible sulfation in lead-based energy storage systems with a novel resonance method. _Journal of Energy Storage_ **42**, 103093 (2021). Click to [view](https://www.sciencedirect.com/science/article/abs/pii/S2352152X21007982).
 - [J9] Fu, S, **Tao, S.** et al. Data-driven capacity estimation for lithium-ion batteries with feature matching based transfer learning method. _Applied Energy_ **353**, 121991 (2024). Click to [view](https://www.sciencedirect.com/science/article/abs/pii/S0306261923013557).
@@ -52,6 +52,7 @@ I have pubulished serveral research papers on Nature Catalysis, Nature Communica
 - [S1] Han, Z., **Tao, S.**, Jia, Y., et al., Discovering catalysis principles by crowd intelligence. Submitted
 
 # 🎖 Honors and Awards
+
 - *2024.12*: &nbsp;🎉🎉🎉 I am gratned the [Dazhong Wang](https://en.wikipedia.org/wiki/Wang_Dazhong) Scholarship [王大中学金] (0.01%). 
 - *2024.11*: &nbsp;🎉🎉🎉 I am nominated the Tsinghua Presidential Scholarship [清华大学特等奖学金] (0.01%, finalist).
 - *2024.10*: &nbsp;🎉🎉🎉 I am gratned the National Scholarship (Doctoral Students) (1%, rank first among all candidates) [国家奖学金(博士研究生)] (0.01%). 
@@ -72,9 +73,9 @@ Supervised by Prof. Yue Zhou and Chen Yang
 B.S. Electrical and Control Engineering (with honors) **GPA: 3.95/4.0** (**1/62**)
 
 # 💬 Invited Talks
-- *2023.10*, Tao, S., Collaborative and privacy-preserving retired battery sorting for profitable direct recycling via federated machine learning, **Best Paper**, and **Best Oral** presentation at closing ceremony of International Carbon Neutrality Forum for Doctoral Students, Tsinghua University.
+- *2023.10*, Tao, S., Collaborative and privacy-preserving retired battery sorting for profitable direct recycling via federated machine learning, **Best Paper**, and **Best Oral** presentation at closing ceremony of International Carbon Neutrality Forum for Doctoral Students, Tsinghua University. 
 - *2023.11*, Tao, S., Generating the voltage response of retired batteries for data augmentation from pulse test using variational autoencoder, **Best Paper**, and **Best Oral** presentation at New Energy Science and Electrification of Transportation International Conference, Elsevier, eTransportation.
 
 # 💻 Internships
-- *2024.05 - 2024.11*, **Microsoft Research Asia Research (MSRA)** Intern in Innovation Center. Topic: First principle based battery data generation and foundational model.
-- *2023.09 - 2024.05*, **Tencent AI Lab Research Intern in Scientific Large Model Group**. Topic: Generative modeling for battery state and health estimations.
+- *2024.05 - 2024.11*, **Microsoft Research Asia Research (MSRA)** Intern in Innovation Center. Topic: First principle based battery data generation and foundational model. Working with Bian Jiang Ph.D., Zhen Shun Ph.D., and Xiaofan Gui.
+- *2023.09 - 2024.05*, **Tencent AI Lab Research Intern in Scientific Large Model Group**. Topic: Generative modeling for battery state and health estimations. Working with Rong Yu Ph.D. and Xu Tingyang Ph.D.
