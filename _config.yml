@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Terence Shengyu Tao"
-description              : "This is a demo"
+description              : "Ph.D. candidate"
 repository               : "https://terencetaothucb.github.io/"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Terence Shengyu Tao"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "This is a demo"
+  bio              : "Tsinghua University, UC Berkeley"
   location         : "CA, USA"
   employer         :
   pubmed           : 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/terencetaothucb"
   google_plus      :
   keybase          :
   instagram        :
