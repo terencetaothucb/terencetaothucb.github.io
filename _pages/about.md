@@ -73,7 +73,7 @@ B.S. Electrical and Control Engineering (with honors) **GPA: 3.95/4.0** (**1/62*
 
 # 💬 Invited Talks
 - *2023.10*, Tao, S., Collaborative and privacy-preserving retired battery sorting for profitable direct recycling via federated machine learning, **Best Paper**, and **Best Oral** presentation at closing ceremony of International Carbon Neutrality Forum for Doctoral Students, Tsinghua University.
-- *2023.11*, Tao, S., Generating the voltage response of retired batteries for data augmentation from pulse test using variational autoencoder,** Best Paper**, and **Best Oral** presentation at New Energy Science and Electrification of Transportation International Conference, Elsevier, eTransportation.
+- *2023.11*, Tao, S., Generating the voltage response of retired batteries for data augmentation from pulse test using variational autoencoder, **Best Paper**, and **Best Oral** presentation at New Energy Science and Electrification of Transportation International Conference, Elsevier, eTransportation.
 
 # 💻 Internships
 - *2024.05 - 2024.11*, **Microsoft Research Asia Research (MSRA)** Intern in Innovation Center. Topic: First principle based battery data generation and foundational model.
