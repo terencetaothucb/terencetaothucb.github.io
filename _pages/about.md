@@ -25,7 +25,9 @@ Special attention is paid to state estimation and aging pattern diagnosis under 
 I have pubulished serveral research papers on Nature Catalysis, Nature Communications, Energy and Envriromental Science, ACS Energy Letters, Journal of Power Sources and Applied Energy, etc. <a href='https://scholar.google.com/citations?hl=zh-CN&user=MHzCCogAAAAJ&view_op=list_works'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 🔥 News
-- *2024.12*: &nbsp;🪫♻️🔋 I am attending [The 3rd Battery Sustainability Workshop 2024](https://www.batterysustain.center/2024-workshop) initiated by Prof. [Martin Bazant](https://scholar.google.com.hk/citations?user=rcGnOdYAAAAJ&hl=en) and others at MIT.  \| [\[pic\]](https://drive.google.com/file/d/14xUQYq3QcvdpD6LN1pStaofJfEMAfdLi/view?usp=drive_link) 
+- *2024.12*: &nbsp;🪫♻️🔋 I am attending [The 3rd Battery Sustainability Workshop 2024](https://www.batterysustain.center/2024-workshop) initiated by Prof. [Martin Bazant](https://scholar.google.com.hk/citations?user=rcGnOdYAAAAJ&hl=en) and others at MIT.  \| [\[pic\]](https://drive.google.com/file/d/14xUQYq3QcvdpD6LN1pStaofJfEMAfdLi/view?usp=drive_link)
+- *2024.11*: &nbsp;🎉🎉🎉 Our project **Large Scale Rapid Internal State Estimation Technology and Applications for Sustainable Utilization of Retired Batteries** are granted the **first prize (rank 1st)** in the 3rd China Postgraduate “Carbon Peak and Carbon Neutrality” Innovation and Creativity Competition, hosted by China Postgraduate Innovation & Practice Competition Series ([CPIPC](https://cpipc.acge.org.cn/)).  \| [\[link\]](https://mp.weixin.qq.com/s/ZsflAzA3QusH4liDsUu-5g).
+- Special congratulations to Prof. Xuan Zhang for the Excellent Supervisor Award! \| [\[pic\]](https://drive.google.com/file/d/1zrMu6KMKgSWA270YqsBsjzbb8QS60vU9/view?usp=drive_link)
 - *2024.09*: &nbsp;🎉🎉🎉 I am visiting Energy, Controls and Application Lab (eCAL) at UC Berkeley, working with Prof. [Scott Moura](https://scholar.google.com/citations?user=5sLngc0AAAAJ&hl=zh-CN). 
 
 # 📝 Publications 
@@ -52,8 +54,8 @@ I have pubulished serveral research papers on Nature Catalysis, Nature Communica
 - [S1] Han, Z., **Tao, S.**, Jia, Y., et al., Discovering catalysis principles by crowd intelligence. Submitted
 
 # 🎖 Honors and Awards
-
-- *2024.12*: &nbsp;🎉🎉🎉 I am gratned the [Dazhong Wang](https://en.wikipedia.org/wiki/Wang_Dazhong) Scholarship [王大中学金] (0.01%). 
+- *2024.12*: &nbsp;🎉🎉🎉 I am gratned the [Dazhong Wang](https://en.wikipedia.org/wiki/Wang_Dazhong) Scholarship [王大中学金] (0.01%).
+- *2024.11*: &nbsp;🎉🎉🎉 My leading project **Large Scale Rapid Internal State Estimation Technology and Applications for Sustainable Utilization of Retired Batteries** are granted the **first prize (rank 1st)** in the 3rd China Postgraduate “Carbon Peak and Carbon Neutrality” Innovation and Creativity Competition, hosted by [CPIPC](https://cpipc.acge.org.cn/).
 - *2024.11*: &nbsp;🎉🎉🎉 I am nominated the Tsinghua Presidential Scholarship [清华大学特等奖学金] (0.01%, finalist).
 - *2024.10*: &nbsp;🎉🎉🎉 I am gratned the National Scholarship (Doctoral Students) (1%, rank first among all candidates) [国家奖学金(博士研究生)] (0.01%). 
 - *2024.08*: &nbsp;🎉🎉🎉 I am granted the Future Leaders Scholarship (Excellent Scholarship), Tsinghua Berkeley Shenzhen Institute (TBSI).
@@ -73,8 +75,8 @@ Supervised by Prof. Yue Zhou and Chen Yang
 B.S. Electrical and Control Engineering (with honors) **GPA: 3.95/4.0** (**1/62**)
 
 # 💬 Invited Talks
-- *2023.10*, Tao, S., Collaborative and privacy-preserving retired battery sorting for profitable direct recycling via federated machine learning, **Best Paper**, and **Best Oral** presentation at closing ceremony of International Carbon Neutrality Forum for Doctoral Students, Tsinghua University. 
-- *2023.11*, Tao, S., Generating the voltage response of retired batteries for data augmentation from pulse test using variational autoencoder, **Best Paper**, and **Best Oral** presentation at New Energy Science and Electrification of Transportation International Conference, Elsevier, eTransportation.
+- *2023.10*, **Tao, S.**, Collaborative and privacy-preserving retired battery sorting for profitable direct recycling via federated machine learning, **Best Paper**, and **Best Oral** presentation at closing ceremony of International Carbon Neutrality Forum for Doctoral Students, Tsinghua University. 
+- *2023.11*, **Tao, S.**, Generating the voltage response of retired batteries for data augmentation from pulse test using variational autoencoder, **Best Paper**, and **Best Oral** presentation at New Energy Science and Electrification of Transportation International Conference, Elsevier, eTransportation.
 
 # 💻 Internships
 - *2024.05 - 2024.11*, **Microsoft Research Asia Research (MSRA)** Intern in Innovation Center. Topic: First principle based battery data generation and foundational model. Working with Bian Jiang Ph.D., Zhen Shun Ph.D., and Xiaofan Gui.
