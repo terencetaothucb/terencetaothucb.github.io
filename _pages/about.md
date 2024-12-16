@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received my B.S, M.S degree (with honors) in Eelectrical Engineerging and Automation, Eelectrical and Control Engineerging from Shanghai Ocean University and Fudan University, China, in 2019 and 2022, respectively. I’m current pursing my Ph.D. degree on the interface of energy sotrage and power systems, electrochemistry and aritificail intelligence (AI), sponsored by a joint training program from Tsinghua University and UC Berkeley. I work with Prof. [Xuan Zhang](https://scholar.google.com/citations?hl=zh-CN&user=B-I9FY8AAAAJ&view_op=list_works&sortby=pubdate), [Guangmin Zhou](https://scholar.google.com/citations?user=smzbtMcAAAAJ&hl=zh-CN), [Scott Moura](https://scholar.google.com/citations?user=5sLngc0AAAAJ&hl=zh-CN) and [Hongbin Sun](https://www.eea.tsinghua.edu.cn/en/faculties/shb.htm) with a balanced focus on real wolrd applicaiton and theoretical depth. I was also a research intern in Tencent AI Lab and Microsoft Research Asia (MSRA). \| [\[CV\]](https://drive.google.com/file/d/1nTQgSXYFpNPcvuclv0ixZGA5rLxwBKjr/view?usp=drive_link) (updated 15 Dec 2024) 
+I received my B.S, M.S degree (with honors) in Eelectrical Engineering and Automation, Eelectrical and Control Engineering from Shanghai Ocean University and Fudan University, China, in 2019 and 2022, respectively. I’m current pursing my Ph.D. degree on the interface of energy sotrage and power systems, electrochemistry and aritificail intelligence (AI), sponsored by a joint training program from Tsinghua University and UC Berkeley. I work with Prof. [Xuan Zhang](https://scholar.google.com/citations?hl=zh-CN&user=B-I9FY8AAAAJ&view_op=list_works&sortby=pubdate), [Guangmin Zhou](https://scholar.google.com/citations?user=smzbtMcAAAAJ&hl=zh-CN), [Scott Moura](https://scholar.google.com/citations?user=5sLngc0AAAAJ&hl=zh-CN) and [Hongbin Sun](https://www.eea.tsinghua.edu.cn/en/faculties/shb.htm) with a balanced focus on real wolrd applicaiton and theoretical depth. I was also a research intern in Tencent AI Lab and Microsoft Research Asia (MSRA). \| [\[CV\]](https://drive.google.com/file/d/1nTQgSXYFpNPcvuclv0ixZGA5rLxwBKjr/view?usp=drive_link) (updated 15 Dec 2024) 
 
 My research interest includes **AI**-enabled **applications** for **sustainable use of retired electric vehicle batteries** (reuse and recycling), e.g., power grid energy storage and strategical material recycling.
 Special attention is paid to state estimation and aging pattern diagnosis under **limited and heterogeneous data availability**. I also work closely with material scientist on AI for Science (**AI4S**) topics.
@@ -48,11 +48,11 @@ J = Journal, S = Submitted
 - [J2] Hu, M. , **Tao, S.** et al. Non-Intrusive Load Monitoring for Residential Appliances with Ultra-Sparse Sample and Real-Time Computation. _Sensors_ **21**, 5366 (2021). Click to [view](https://www.mdpi.com/1424-8220/21/16/5366)
 - [J1] T. Cao, Y. Xu, G. Liu, **Tao, S.** et al. Feature-enhanced deep learning method for electric vehicle charging demand probabilistic forecasting of charging station. _Applied Energy_ **371**, 123751 (2024). Click to [view](https://www.sciencedirect.com/science/article/abs/pii/S0306261924011346).
 - [S6] **Tao, S.**, Zhao, Z., Zhang, M., et al., Non-destructive degradation pattern decoupling for early battery trajectory prediction via physics-informed learning. Submitted to _Energy and Environmental Science_, 1st revision.
-- [S5] **Tao, S.**, et al., Immediate remaining capacity estimation of heterogeneous retired lithium-ion batteries via deep generative transfer learning. Submitted
-- [S4] **Tao, S.**, et al., The role of hysteresis effect in battery energy storage systems on supporting grid frequency stability. Submitted to Power \& Energy Society General Meeting (PESGM)
-- [S3] **Tao, S.**, et al., Artificial intelligence for sustainable battery reuse, recycling, and remanufacturing. Submitted
-- [S2] Piao, Z., Han, Z., **Tao, S.**, et al., Deciphering failure trajectories in lithium metal anodes through electrochemical curve fingerprint. Submitted
-- [S1] Han, Z., **Tao, S.**, Jia, Y., et al., Discovering catalysis principles by crowd intelligence. Submitted
+- [S5] **Tao, S.**, et al., Immediate remaining capacity estimation of heterogeneous retired lithium-ion batteries via deep generative transfer learning. 
+- [S4] **Tao, S.**, et al., The role of hysteresis effect in battery energy storage systems on supporting grid frequency stability. Power \& Energy Society General Meeting (PESGM)
+- [S3] **Tao, S.**, et al., Artificial intelligence for sustainable battery reuse, recycling, and remanufacturing. 
+- [S2] Piao, Z., Han, Z., **Tao, S.**, et al., Deciphering failure trajectories in lithium metal anodes through electrochemical curve fingerprint. 
+- [S1] Han, Z., **Tao, S.**, Jia, Y., et al., Discovering catalysis principles by crowd intelligence. 
 
 # 🎖 Honors and Awards
 - *2024.12*: &nbsp;🎉🎉🎉 I am granted the [Dazhong Wang](https://en.wikipedia.org/wiki/Wang_Dazhong) Scholarship [王大中学金] (0.01%).
