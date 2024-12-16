@@ -31,6 +31,7 @@ I have pubulished serveral research papers on **Nature Catalysis**, **Nature Com
 - *2024.09*: &nbsp;🎉🎉🎉 I am visiting Energy, Controls and Application Lab (eCAL) at UC Berkeley, working with Prof. [Scott Moura](https://scholar.google.com/citations?user=5sLngc0AAAAJ&hl=zh-CN). 
 
 # 📝 Publications 
+J = Journal, S = Submitted
 - [J15] **Tao, S.**, Ma, R., Zhao, Z. et al. Generative learning assisted state-of-health estimation for sustainable battery recycling with random retirement conditions. _Nature Communications_ **15**, 10154 (2024). Click to [view](https://www.nature.com/articles/s41467-024-54454-0). 
 - [J14] Ma, R., **Tao, S.** et al. Pathway decisions for reuse and recycling of retired lithium-ion batteries considering economic and environmental functions. _Nature Communications_ **15**, 7641 (2024). Click to [view](https://www.nature.com/articles/s41467-024-52030-0).
 - [J13] **Tao, S.** et al. Rapid and sustainable battery health diagnosis for recycling pretreatment using fast pulse test and random forest machine learning. _Journal of Power Sources_ **597**, 234156 (2024). Click to [view](https://doi.org/10.1016/j.jpowsour.2024.234156).
@@ -54,10 +55,10 @@ I have pubulished serveral research papers on **Nature Catalysis**, **Nature Com
 - [S1] Han, Z., **Tao, S.**, Jia, Y., et al., Discovering catalysis principles by crowd intelligence. Submitted
 
 # 🎖 Honors and Awards
-- *2024.12*: &nbsp;🎉🎉🎉 I am gratned the [Dazhong Wang](https://en.wikipedia.org/wiki/Wang_Dazhong) Scholarship [王大中学金] (0.01%).
+- *2024.12*: &nbsp;🎉🎉🎉 I am granted the [Dazhong Wang](https://en.wikipedia.org/wiki/Wang_Dazhong) Scholarship [王大中学金] (0.01%).
 - *2024.11*: &nbsp;🎉🎉🎉 My leading project **Large Scale Rapid Internal State Estimation Technology and Applications for Sustainable Utilization of Retired Batteries** are granted the **first prize (rank 1st)** in the 3rd China Postgraduate “Carbon Peak and Carbon Neutrality” Innovation and Creativity Competition, hosted by [CPIPC](https://cpipc.acge.org.cn/).
 - *2024.11*: &nbsp;🎉🎉🎉 I am nominated the Tsinghua Presidential Scholarship [清华大学特等奖学金] (0.01%, finalist).
-- *2024.10*: &nbsp;🎉🎉🎉 I am gratned the National Scholarship (Doctoral Students) (1%, rank first among all candidates) [国家奖学金(博士研究生)] (0.01%). 
+- *2024.10*: &nbsp;🎉🎉🎉 I am granted the National Scholarship (Doctoral Students) (1%, rank first among all candidates) [国家奖学金(博士研究生)] (0.01%). 
 - *2024.08*: &nbsp;🎉🎉🎉 I am granted the Future Leaders Scholarship (Excellent Scholarship), Tsinghua Berkeley Shenzhen Institute (TBSI).
 
 # 📖 Educations
