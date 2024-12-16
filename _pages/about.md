@@ -25,7 +25,7 @@ Special attention is paid to state estimation and aging pattern diagnosis under 
 I have pubulished serveral research papers on Nature Catalysis, Nature Communications, Energy and Envriromental Science, ACS Energy Letters, Journal of Power Sources and Applied Energy, etc. <a href='https://scholar.google.com/citations?hl=zh-CN&user=MHzCCogAAAAJ&view_op=list_works'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 🔥 News
-- *2024.12*: &nbsp;🪫👉🔋 I am attending [The 3rd Battery Sustainability Workshop 2024](https://www.batterysustain.center/2024-workshop) initiated by Prof. [Martin Bazant](https://scholar.google.com.hk/citations?user=rcGnOdYAAAAJ&hl=en) and others at MIT.
+- *2024.12*: &nbsp;🪫♻️🔋 I am attending [The 3rd Battery Sustainability Workshop 2024](https://www.batterysustain.center/2024-workshop) initiated by Prof. [Martin Bazant](https://scholar.google.com.hk/citations?user=rcGnOdYAAAAJ&hl=en) and others at MIT.
 - *2024.09*: &nbsp;🎉🎉🎉 I am visiting Energy, Controls and Application Lab (eCAL) at UC Berkeley, working with Prof. [Scott Moura](https://scholar.google.com/citations?user=5sLngc0AAAAJ&hl=zh-CN). 
 
 # 📝 Publications 
@@ -58,13 +58,23 @@ I have pubulished serveral research papers on Nature Catalysis, Nature Communica
 - *2024.08*: &nbsp;🎉🎉🎉 I am granted the Future Leaders Scholarship (Excellent Scholarship), Tsinghua Berkeley Shenzhen Institute (TBSI).
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- 
+- *2022.08 - 2025.6*, Tsinghua University, Beijing, China
+Supervised by Prof. Guangmin Zhou and Xuan Zhang
+Ph.D. candidate in Electrical Engineering GPA: 3.9/4.0
+- *2024.09 - now*, UC Berkeley, CA, USA
+Supervised by Prof. Scott J. Moura
+Visiting Research Scholar in Energy, Control and Application Lab (eCAL)
+- *2019.09 - 2022.6*, Fudan University, Shanghai, China
+Supervised by Prof. Yaojie Sun
+M.S. Electrical and Control Engineering(with honors) GPA: 3.85/4.0 (1/64)
+- *2015.09 - 2019.6*, Shanghai Ocean University, Shanghai, China
+Supervised by Prof. Yue Zhou and Chen Yang
+B.S. Electrical and Control Engineering (with honors) GPA: 3.95/4.0 (1/62)
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2023.10*, Tao, S., Collaborative and privacy-preserving retired battery sorting for profitable direct recycling via federated machine learning, Best Paper, and Best Oral presentation at closing ceremony of International Carbon Neutrality Forum for Doctoral Students, Tsinghua University.
+- *2023.11*, Tao, S., Generating the voltage response of retired batteries for data augmentation from pulse test using variational autoencoder, Best Paper, and Best Oral presentation at New Energy Science and Electrification of Transportation International Conference, Elsevier, eTransportation.
 
-# 💻 Intern
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Internships
+- *2024.05 - 2024.11*, Microsoft Research Asia Research (MSRA) Intern in Innovation Center. Topic: First principle based battery data generation and foundational model.
+- *2023.09 - 2024.05*, Microsoft Research Asia Research Intern in Innovation Center. Topic: Generative modeling for battery state and health estimations.
