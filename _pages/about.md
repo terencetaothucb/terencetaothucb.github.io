@@ -58,23 +58,23 @@ I have pubulished serveral research papers on Nature Catalysis, Nature Communica
 - *2024.08*: &nbsp;🎉🎉🎉 I am granted the Future Leaders Scholarship (Excellent Scholarship), Tsinghua Berkeley Shenzhen Institute (TBSI).
 
 # 📖 Educations
-- *2022.08 - 2025.6*, Tsinghua University, Beijing, China
+- *2022.08 - 2025.6 (expected)*, Tsinghua University, Beijing, China
 Supervised by Prof. Guangmin Zhou and Xuan Zhang
-Ph.D. candidate in Electrical Engineering GPA: 3.9/4.0
+Ph.D. candidate in Electrical Engineering **GPA: 3.9/4.0**
 - *2024.09 - now*, UC Berkeley, CA, USA
 Supervised by Prof. Scott J. Moura
 Visiting Research Scholar in Energy, Control and Application Lab (eCAL)
 - *2019.09 - 2022.6*, Fudan University, Shanghai, China
 Supervised by Prof. Yaojie Sun
-M.S. Electrical and Control Engineering(with honors) GPA: 3.85/4.0 (1/64)
+M.S. Electrical and Control Engineering(with honors) **GPA: 3.85/4.0** (**1/64**)
 - *2015.09 - 2019.6*, Shanghai Ocean University, Shanghai, China
 Supervised by Prof. Yue Zhou and Chen Yang
-B.S. Electrical and Control Engineering (with honors) GPA: 3.95/4.0 (1/62)
+B.S. Electrical and Control Engineering (with honors) **GPA: 3.95/4.0** (**1/62**)
 
 # 💬 Invited Talks
-- *2023.10*, Tao, S., Collaborative and privacy-preserving retired battery sorting for profitable direct recycling via federated machine learning, Best Paper, and Best Oral presentation at closing ceremony of International Carbon Neutrality Forum for Doctoral Students, Tsinghua University.
-- *2023.11*, Tao, S., Generating the voltage response of retired batteries for data augmentation from pulse test using variational autoencoder, Best Paper, and Best Oral presentation at New Energy Science and Electrification of Transportation International Conference, Elsevier, eTransportation.
+- *2023.10*, Tao, S., Collaborative and privacy-preserving retired battery sorting for profitable direct recycling via federated machine learning, **Best Paper**, and **Best Oral** presentation at closing ceremony of International Carbon Neutrality Forum for Doctoral Students, Tsinghua University.
+- *2023.11*, Tao, S., Generating the voltage response of retired batteries for data augmentation from pulse test using variational autoencoder,** Best Paper**, and **Best Oral** presentation at New Energy Science and Electrification of Transportation International Conference, Elsevier, eTransportation.
 
 # 💻 Internships
-- *2024.05 - 2024.11*, Microsoft Research Asia Research (MSRA) Intern in Innovation Center. Topic: First principle based battery data generation and foundational model.
-- *2023.09 - 2024.05*, Microsoft Research Asia Research Intern in Innovation Center. Topic: Generative modeling for battery state and health estimations.
+- *2024.05 - 2024.11*, **Microsoft Research Asia Research (MSRA)** Intern in Innovation Center. Topic: First principle based battery data generation and foundational model.
+- *2023.09 - 2024.05*, **Tencent AI Lab Research Intern in Scientific Large Model Group**. Topic: Generative modeling for battery state and health estimations.
