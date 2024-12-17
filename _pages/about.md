@@ -55,7 +55,7 @@ J = Journal, S = Submitted
 - [S1] Han, Z., **Tao, S.**, Jia, Y., et al., Discovering catalysis principles by crowd intelligence. 
 
 # 🎖 Honors and Awards
-- *2024.12*: &nbsp;🎉🎉🎉 I am granted the [Dazhong Wang](https://en.wikipedia.org/wiki/Wang_Dazhong) Scholarship [王大中学金] (0.01%).
+- *2024.12*: &nbsp;🎉🎉🎉 I am granted the [Wang Dazhong](https://en.wikipedia.org/wiki/Wang_Dazhong) Scholarship [王大中奖学金] (0.01%).
 - *2024.11*: &nbsp;🎉🎉🎉 My leading project **Large Scale Rapid Internal State Estimation Technology and Applications for Sustainable Utilization of Retired Batteries** are granted the **first prize (rank 1st)** in the 3rd China Postgraduate “Carbon Peak and Carbon Neutrality” Innovation and Creativity Competition, hosted by [CPIPC](https://cpipc.acge.org.cn/).
 - *2024.11*: &nbsp;🎉🎉🎉 I am nominated the Tsinghua Presidential Scholarship [清华大学特等奖学金] (0.01%, finalist).
 - *2024.10*: &nbsp;🎉🎉🎉 I am granted the National Scholarship (Doctoral Students) (1%, rank first among all candidates) [国家奖学金(博士研究生)] (0.01%). 
