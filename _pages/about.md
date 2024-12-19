@@ -31,7 +31,6 @@ I have pubulished serveral research papers on **Nature Catalysis**, **Nature Com
 - *2024.09*: &nbsp;🎉🎉🎉 I am visiting the Energy, Controls and Applications Lab (eCAL) at UC Berkeley, working with Prof. [Scott Moura](https://scholar.google.com/citations?user=5sLngc0AAAAJ&hl=zh-CN). 
 
 # 📝 Publications 
-**Featured publications**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nat Commun 15, 10154 (2024)</div><img src='images/Nat Commun 15, 10154 (2024).png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -39,7 +38,7 @@ I have pubulished serveral research papers on **Nature Catalysis**, **Nature Com
 
 **Tao, S.**, Ma, R., Zhao, Z.  _et al_. 
 
-Dataset [**here**](https://github.com/terencetaothucb/Pulse-Voltage-Response-Generation) <strong><span class='show_paper_citations' data='MHzCCogAAAAJ'></span></strong>
+Dataset [**here**](https://github.com/terencetaothucb/Pulse-Voltage-Response-Generation)
 </div>
 </div>
 
@@ -50,7 +49,7 @@ Dataset [**here**](https://github.com/terencetaothucb/Pulse-Voltage-Response-Gen
 
 Ma, R., **Tao, S.**, Sun, X. _et al_. 
 
-Code [**here**](https://github.com/RuifeiMa/Reuse-and-recycling-pathway-of-retired-batteries) <strong><span class='show_paper_citations' data='MHzCCogAAAAJ'></span></strong>
+Code [**here**](https://github.com/RuifeiMa/Reuse-and-recycling-pathway-of-retired-batteries)
 </div>
 </div>
 
@@ -60,6 +59,8 @@ Code [**here**](https://github.com/RuifeiMa/Reuse-and-recycling-pathway-of-retir
 [Collaborative and privacy-preserving retired battery sorting for profitable direct recycling via federated machine learning](https://www.nature.com/articles/s41467-023-43883-y)
 
 **Tao, S.**, Liu, H., Sun, C. _et al_. 
+
+Selected as [**Top 25 paper**](https://www.nature.com/collections/bchahibchi) and [**Energy Focus paper**](https://www.nature.com/collections/dmmhtcypsc).
 </div>
 </div>
 
