@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Terence Shengyu Tao (Ph.D. candidate)"
+title                    : "Terence Shengyu Tao"
 description              : "AI for Sustainability, AI for Science"
 repository               : "https://terencetaothucb.github.io/"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Terence Shengyu Tao" 
+  name             : "Terence Shengyu Tao (Ph.D. candidate)" 
   avatar           : "images/Me.jpeg"
   bio              : "Tsinghua University, UC Berkeley"
   location         : "CA, USA"
