@@ -34,7 +34,6 @@ I have pubulished serveral research papers on **Nature Catalysis**, **Nature Com
 J = Journal, S = Submitted
 
 **Featured publications**
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nat Commun 15, 10154 (2024)</div><img src='images/Nat Commun 15, 10154 (2024).png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -46,7 +45,7 @@ Dataset [**here**](https://github.com/terencetaothucb/Pulse-Voltage-Response-Gen
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nat Commun 15, 10154 (2024)</div><img src='images/Nat Commun 15, 7641 (2024).png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nat Commun 15, 7641 (2024)</div><img src='images/Nat Commun 15, 7641 (2024).png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Pathway decisions for reuse and recycling of retired lithium-ion batteries considering economic and environmental functions](https://www.nature.com/articles/s41467-024-52030-0)
