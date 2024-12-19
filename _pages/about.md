@@ -33,15 +33,26 @@ I have pubulished serveral research papers on **Nature Catalysis**, **Nature Com
 # 📝 Publications 
 J = Journal, S = Submitted
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='Nat Commun 15, 10154 (2024).png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Generative learning assisted state-of-health estimation for sustainable battery recycling with random retirement conditions](https://www.nature.com/articles/s41467-024-54454-0)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Tao, S.**, Ma, R., Zhao, Z. et al.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Dataset**](https://github.com/terencetaothucb/Pulse-Voltage-Response-Generation) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+We open source the world-largest retired battery dataset using pulse test measurements:
+- 464 retired lithium-ion batteries;
+- SOH from 40% to 95% (with label);
+- **The battery heterogeneities**
+- 3 cathode types;
+- 6 historical usages;
+- 3 physical formats;
+- 6 capacity designs;
+- **The pulse test parameters**
+- 10 pulse width (30-5000ms);
+- 10 pulse magnitude ±(0.5-2.5C);
+- 10 SOC levels (5-50%);
 </div>
 </div>
 
