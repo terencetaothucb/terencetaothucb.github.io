@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Terence Shengyu Tao"
-description              : "- Ph.D. candidate in EECS / AI for Sustainability / AI for Science"
+title                    : "Terence Shengyu Tao (Ph.D. candidate)"
+description              : "AI for Sustainability, AI for Science"
 repository               : "https://terencetaothucb.github.io/"
 google_scholar_stats_use_cdn : true
 
