@@ -32,6 +32,19 @@ I have pubulished serveral research papers on **Nature Catalysis**, **Nature Com
 
 # 📝 Publications 
 J = Journal, S = Submitted
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
 - [J15] **Tao, S.**, Ma, R., Zhao, Z. et al. Generative learning assisted state-of-health estimation for sustainable battery recycling with random retirement conditions. _Nature Communications_ **15**, 10154 (2024). Click to [view](https://www.nature.com/articles/s41467-024-54454-0). 
 - [J14] Ma, R., **Tao, S.** et al. Pathway decisions for reuse and recycling of retired lithium-ion batteries considering economic and environmental functions. _Nature Communications_ **15**, 7641 (2024). Click to [view](https://www.nature.com/articles/s41467-024-52030-0).
 - [J13] **Tao, S.** et al. Rapid and sustainable battery health diagnosis for recycling pretreatment using fast pulse test and random forest machine learning. _Journal of Power Sources_ **597**, 234156 (2024). Click to [view](https://doi.org/10.1016/j.jpowsour.2024.234156).
