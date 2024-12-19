@@ -31,15 +31,13 @@ I have pubulished serveral research papers on **Nature Catalysis**, **Nature Com
 - *2024.09*: &nbsp;🎉🎉🎉 I am visiting the Energy, Controls and Applications Lab (eCAL) at UC Berkeley, working with Prof. [Scott Moura](https://scholar.google.com/citations?user=5sLngc0AAAAJ&hl=zh-CN). 
 
 # 📝 Publications 
-J = Journal, S = Submitted
-
 **Featured publications**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nat Commun 15, 10154 (2024)</div><img src='images/Nat Commun 15, 10154 (2024).png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Generative learning assisted state-of-health estimation for sustainable battery recycling with random retirement conditions](https://www.nature.com/articles/s41467-024-54454-0)
 
-**Tao, S.**, Ma, R., Zhao, Z._ et al_.
+**Tao, S.**, Ma, R., Zhao, Z.  _et al_. 
 
 Dataset [**here**](https://github.com/terencetaothucb/Pulse-Voltage-Response-Generation) <strong><span class='show_paper_citations' data='MHzCCogAAAAJ'></span></strong>
 </div>
@@ -55,6 +53,17 @@ Ma, R., **Tao, S.**, Sun, X. _et al_.
 Code [**here**](https://github.com/RuifeiMa/Reuse-and-recycling-pathway-of-retired-batteries) <strong><span class='show_paper_citations' data='MHzCCogAAAAJ'></span></strong>
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nat Commun 14, 8032 (2023)</div><img src='images/Nat Commun 14, 8032 (2023).png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Collaborative and privacy-preserving retired battery sorting for profitable direct recycling via federated machine learning](https://www.nature.com/articles/s41467-023-43883-y)
+
+**Tao, S.**, Liu, H., Sun, C. _et al_. 
+</div>
+</div>
+
+J = Journal, S = Submitted
 
 - [J15] **Tao, S.**, Ma, R., Zhao, Z. et al. Generative learning assisted state-of-health estimation for sustainable battery recycling with random retirement conditions. _Nature Communications_ **15**, 10154 (2024). Click to [view](https://www.nature.com/articles/s41467-024-54454-0). 
 - [J14] Ma, R., **Tao, S.** et al. Pathway decisions for reuse and recycling of retired lithium-ion batteries considering economic and environmental functions. _Nature Communications_ **15**, 7641 (2024). Click to [view](https://www.nature.com/articles/s41467-024-52030-0).
