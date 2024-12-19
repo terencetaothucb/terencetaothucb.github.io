@@ -40,20 +40,9 @@ J = Journal, S = Submitted
 
 **Tao, S.**, Ma, R., Zhao, Z. et al.
 
-[**Dataset**](https://github.com/terencetaothucb/Pulse-Voltage-Response-Generation) <strong><span class='show_paper_citations' data='MHzCCogAAAAJ'></span></strong>
+Dataset [**here**](https://github.com/terencetaothucb/Pulse-Voltage-Response-Generation) <strong><span class='show_paper_citations' data='MHzCCogAAAAJ'></span></strong>
 
-We open source the world-largest retired battery dataset using pulse test measurements:
-- 464 retired lithium-ion batteries;
-- SOH from 40% to 95% (with label);
-- **The battery heterogeneities**
-- 3 cathode types;
-- 6 historical usages;
-- 3 physical formats;
-- 6 capacity designs;
-- **The pulse test parameters**
-- 10 pulse width (30-5000ms);
-- 10 pulse magnitude ±(0.5-2.5C);
-- 10 SOC levels (5-50%);
+We open source the world-largest retired battery dataset using dynamic pulse test measurements.
 </div>
 </div>
 
