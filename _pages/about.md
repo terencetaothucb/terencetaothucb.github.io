@@ -33,7 +33,7 @@ I have pubulished serveral research papers on **Nature Catalysis**, **Nature Com
 # 📝 Publications 
 J = Journal, S = Submitted
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">_Nat Commun_ **15**, 10154 (2024)</div><img src='images/Nat Commun 15, 10154 (2024).png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nat Commun 15, 10154 (2024)</div><img src='images/Nat Commun 15, 10154 (2024).png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Generative learning assisted state-of-health estimation for sustainable battery recycling with random retirement conditions](https://www.nature.com/articles/s41467-024-54454-0)
