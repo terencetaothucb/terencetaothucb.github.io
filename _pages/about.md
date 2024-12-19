@@ -33,14 +33,15 @@ I have pubulished serveral research papers on **Nature Catalysis**, **Nature Com
 # 📝 Publications 
 J = Journal, S = Submitted
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nat Commun 15, 10154 (2024)</div><img src='images/Nat Commun 15, 10154 (2024).png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nat Commun 15, 10154 (2024)</div><img src='images/Nat Commun 15, 10154 (2024).png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Generative learning assisted state-of-health estimation for sustainable battery recycling with random retirement conditions](https://www.nature.com/articles/s41467-024-54454-0)
 
 **Tao, S.**, Ma, R., Zhao, Z. et al.
 
-[**Dataset**](https://github.com/terencetaothucb/Pulse-Voltage-Response-Generation) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Dataset**](https://github.com/terencetaothucb/Pulse-Voltage-Response-Generation) <strong><span class='show_paper_citations' data='MHzCCogAAAAJ'></span></strong>
+
 We open source the world-largest retired battery dataset using pulse test measurements:
 - 464 retired lithium-ion batteries;
 - SOH from 40% to 95% (with label);
