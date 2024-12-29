@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Terence Shengyu Tao (Ph.D. Candidate)" 
-  avatar           : "images/Me.jpeg"
+  avatar           : "images/Me.jpg"
   bio              : "Tsinghua University, UC Berkeley"
   location         : "CA, USA"
   employer         : 
