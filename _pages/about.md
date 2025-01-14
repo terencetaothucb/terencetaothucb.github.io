@@ -36,7 +36,7 @@ I have published serveral articles on **Nature Catalysis（2023）**, **Nature C
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Energy Environ. Sci., (2025)</div><img src='images/EES D4EE03839H.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Non-destructive degradation trajectory prediction needs observations that has not yet been estabilished. [Here](https://pubs.rsc.org/en/content/articlelanding/2025/ee/d4ee03839h), the authors propose a physics-informed model to predict battery lifetime trajectories by computing thermodynamic and kinetic parameters, saving costly data that has not been established for sustainable manufacturing, reuse, and recycling. 
+Non-destructive degradation trajectory prediction needs observations that has not yet been estabilished. [Here](https://pubs.rsc.org/en/content/articlelanding/2025/ee/d4ee03839h), the authors propose a physics-informed model to predict battery lifetime trajectories by computing thermodynamic and kinetic parameters, saving costly and time-consuming data curation for sustainable manufacturing, reuse, and recycling. 
 
 **Tao, S.**, Zhang, M., Zhao, Z.  _et al_. 
 
