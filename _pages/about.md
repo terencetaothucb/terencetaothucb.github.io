@@ -22,9 +22,10 @@ I received my B.S., and M.S. degrees (both with honors) in Electrical Engineerin
 My research interest includes **AI**-enabled **applications** for **sustainable use of retired electric vehicle batteries** (reuse and recycling), e.g., power grid energy storage and strategical material recycling.
 Special attention is paid to state estimation and aging pattern diagnosis under **limited and heterogeneous data availability**. I also work closely with material scientist on AI for Science (**AI4S**) topics.
 
-I have published serveral articles on **Nature Catalysis（2023）**, **Nature Communications（2024a；2024b；2023）**, **Energy and Environmental Science（2024）**, **ACS Energy Letters**, **Journal of Power Sources** and **Applied Energy**, etc. (You can also check google scholar <a href='https://scholar.google.com/citations?user=MHzCCogAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I have published serveral articles on **Nature Catalysis（2023）**, **Nature Communications（2024a；2024b；2023）**, **Energy and Environmental Science（2025）**, **ACS Energy Letters**, **Journal of Power Sources** and **Applied Energy**, etc. (You can also check google scholar <a href='https://scholar.google.com/citations?user=MHzCCogAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 # 🔥 News
+- *2025.01*: &nbsp;🎉🎉🎉 Our [paper](https://pubs.rsc.org/en/content/articlelanding/2025/ee/d4ee03839h) has been published at Energy Environ. Sci., and recommended as the back cover paper! \| [\[pic\]](https://drive.google.com/file/d/1u1kcT2masDnYgR3AjepCOEnZ-qgY4tYT/view?usp=drive_link)
 - *2025.01*: &nbsp;🎉🎉🎉 I am nominated Youth Talent Support Project (Special Program for Doctoral Students) sponsored by the China Association for Science and Technology (CAST) and specifically by the China Society of Automotive Engineers ([CSAE](https://www.sae-china.org/)) 中国科协青年人才托举工程博士生专项计划. \| [\[pic\]](images/Talent Program.jpg)
 - *2024.12*: &nbsp;🪫♻️🔋 I am attending [The 3rd Battery Sustainability Workshop 2024](https://www.batterysustain.center/2024-workshop) initiated by Prof. [Martin Bazant](https://scholar.google.com.hk/citations?user=rcGnOdYAAAAJ&hl=en) and others at MIT.  \| [\[pic\]](https://drive.google.com/file/d/14xUQYq3QcvdpD6LN1pStaofJfEMAfdLi/view?usp=drive_link)
 - *2024.11*: &nbsp;🎉🎉🎉 Our project **Large Scale Rapid Internal State Estimation Technology and Applications for Sustainable Utilization of Retired Batteries** are granted the **first prize (rank 1st)** in the 3rd China Postgraduate “Carbon Peak and Carbon Neutrality” Innovation and Creativity Competition, hosted by China Postgraduate Innovation and Practice Competition Series ([CPIPC](https://cpipc.acge.org.cn/)).  \| [\[link\]](https://mp.weixin.qq.com/s/ZsflAzA3QusH4liDsUu-5g).
@@ -32,6 +33,18 @@ I have published serveral articles on **Nature Catalysis（2023）**, **Nature C
 - *2024.09*: &nbsp;🎉🎉🎉 I am visiting the Energy, Controls and Applications Lab (eCAL) at UC Berkeley, working with Prof. [Scott Moura](https://scholar.google.com/citations?user=5sLngc0AAAAJ&hl=zh-CN). 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Energy Environ. Sci., (2025)</div><img src='images/EES D4EE03839H.tif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Non-destructive degradation trajectory prediction needs observations that has not yet been estabilished. [Here](https://pubs.rsc.org/en/content/articlelanding/2025/ee/d4ee03839h), the authors propose a physics-informed model to predict battery lifetime trajectories by computing thermodynamic and kinetic parameters, saving costly data that has not been established for sustainable manufacturing, reuse, and recycling. 
+
+**Tao, S.**, Zhang, M., Zhao, Z.  _et al_. 
+
+Dataset [**here**](https://github.com/terencetaothucb/TBSI-Sunwoda-Battery-Dataset)
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nat Commun 15, 10154 (2024)</div><img src='images/Nat Commun 15, 10154 (2024).png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -66,7 +79,7 @@ Selected as [**Top 25 paper**](https://www.nature.com/collections/bchahibchi) an
 </div>
 
 J = Journal, S = Submitted
-
+- [J16] **Tao, S.**, Zhang, M., Zhao, Z. et al. Non-destructive degradation pattern decoupling for early battery trajectory prediction via physics-informed learning. _Energy \& Enviromental Science_, (2025). Click to [view](https://pubs.rsc.org/en/content/articlelanding/2025/ee/d4ee03839h). 
 - [J15] **Tao, S.**, Ma, R., Zhao, Z. et al. Generative learning assisted state-of-health estimation for sustainable battery recycling with random retirement conditions. _Nature Communications_ **15**, 10154 (2024). Click to [view](https://www.nature.com/articles/s41467-024-54454-0). 
 - [J14] Ma, R., **Tao, S.** et al. Pathway decisions for reuse and recycling of retired lithium-ion batteries considering economic and environmental functions. _Nature Communications_ **15**, 7641 (2024). Click to [view](https://www.nature.com/articles/s41467-024-52030-0).
 - [J13] **Tao, S.** et al. Rapid and sustainable battery health diagnosis for recycling pretreatment using fast pulse test and random forest machine learning. _Journal of Power Sources_ **597**, 234156 (2024). Click to [view](https://doi.org/10.1016/j.jpowsour.2024.234156).
@@ -82,7 +95,6 @@ J = Journal, S = Submitted
 - [J3] Li, T. , **Tao, S.** et al. V2G Multi-Objective Dispatching Optimization Strategy Based on User Behavior Model. _Frontiers in Energy Research_ **9** (2021). Click to [view](https://www.frontiersin.org/journals/energy-research/articles/10.3389/fenrg.2021.739527/full)
 - [J2] Hu, M. , **Tao, S.** et al. Non-Intrusive Load Monitoring for Residential Appliances with Ultra-Sparse Sample and Real-Time Computation. _Sensors_ **21**, 5366 (2021). Click to [view](https://www.mdpi.com/1424-8220/21/16/5366)
 - [J1] T. Cao, Y. Xu, G. Liu, **Tao, S.** et al. Feature-enhanced deep learning method for electric vehicle charging demand probabilistic forecasting of charging station. _Applied Energy_ **371**, 123751 (2024). Click to [view](https://www.sciencedirect.com/science/article/abs/pii/S0306261924011346).
-- [S6] **Tao, S.**, Zhao, Z., Zhang, M., et al., Non-destructive degradation pattern decoupling for early battery trajectory prediction via physics-informed learning. Submitted to _Energy and Environmental Science_, 1st revision.
 - [S5] **Tao, S.**, et al., Immediate remaining capacity estimation of heterogeneous retired lithium-ion batteries via deep generative transfer learning. 
 - [S4] **Tao, S.**, et al., The role of hysteresis effect in battery energy storage systems on supporting grid frequency stability. Power and Energy Society General Meeting (PESGM)
 - [S3] **Tao, S.**, et al., Artificial intelligence for sustainable battery reuse, recycling, and remanufacturing. 
