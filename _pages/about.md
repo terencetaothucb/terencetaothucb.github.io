@@ -32,7 +32,7 @@ I have published serveral articles on **Nature Catalysis（2023）**, **Nature C
 **Special congratulations to Prof. Xuan Zhang for the Excellent Supervisor Award!** \| [\[pic\]](https://drive.google.com/file/d/1zrMu6KMKgSWA270YqsBsjzbb8QS60vU9/view?usp=drive_link)
 - *2024.09*: &nbsp;🎉🎉🎉 I am visiting the Energy, Controls and Applications Lab (eCAL) at UC Berkeley, working with Prof. [Scott Moura](https://scholar.google.com/citations?user=5sLngc0AAAAJ&hl=zh-CN). 
 
-# 📝 Publications 
+# 📝 Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Energy Environ. Sci., (2025)</div><img src='images/EES D4EE03839H.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
