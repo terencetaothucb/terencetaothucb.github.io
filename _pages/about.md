@@ -33,7 +33,7 @@ I have published serveral articles on **Nature Catalysis（2023）**, **Nature C
 - *2024.09*: &nbsp;🎉🎉🎉 I am visiting the Energy, Controls and Applications Lab (eCAL) at UC Berkeley, working with Prof. [Scott Moura](https://scholar.google.com/citations?user=5sLngc0AAAAJ&hl=zh-CN). 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Energy Environ. Sci., (2025)</div><img src='images/EES D4EE03839H.tif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Energy Environ. Sci., (2025)</div><img src='images/EES D4EE03839H.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Non-destructive degradation trajectory prediction needs observations that has not yet been estabilished. [Here](https://pubs.rsc.org/en/content/articlelanding/2025/ee/d4ee03839h), the authors propose a physics-informed model to predict battery lifetime trajectories by computing thermodynamic and kinetic parameters, saving costly data that has not been established for sustainable manufacturing, reuse, and recycling. 
