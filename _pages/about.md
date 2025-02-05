@@ -25,7 +25,7 @@ Special attention is paid to state estimation and aging pattern diagnosis under 
 I have published serveral articles on **Nature Catalysis（2023）**, **Nature Communications（2024a；2024b；2023）**, **Energy and Environmental Science（2025）**, **ACS Energy Letters**, **Journal of Power Sources** and **Applied Energy**, etc. (You can also check google scholar <a href='https://scholar.google.com/citations?user=MHzCCogAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 # 🔥 News
-- *2025.01*: &nbsp;🎉🎉🎉 Our [paper](https://pubs.rsc.org/en/content/articlelanding/2025/ee/d4ee03839h) has been published at Energy Environ. Sci., and selected as the back cover paper! \| [\[pic\]](https://drive.google.com/file/d/1u1kcT2masDnYgR3AjepCOEnZ-qgY4tYT/view?usp=drive_link)
+- *2025.01*: &nbsp;🎉🎉🎉 Our [paper](https://pubs.rsc.org/en/content/articlelanding/2025/ee/d4ee03839h) has been published at Energy Environ. Sci., and selected as the back cover paper! \| [\[pic\]](https://drive.google.com/file/d/1h_ELcVdVCLSl0wsoJ-eHgXJpbHvNy-2Y/view?usp=drive_link)
 - *2025.01*: &nbsp;🎉🎉🎉 I am nominated Youth Talent Support Project (Special Program for Doctoral Students) sponsored by the China Association for Science and Technology (CAST) and specifically by the China Society of Automotive Engineers ([CSAE](https://www.sae-china.org/)) 中国科协青年人才托举工程博士生专项计划. \| [\[pic\]](images/Talent Program.jpg)
 - *2024.12*: &nbsp;🪫♻️🔋 I am attending [The 3rd Battery Sustainability Workshop 2024](https://www.batterysustain.center/2024-workshop) initiated by Prof. [Martin Bazant](https://scholar.google.com.hk/citations?user=rcGnOdYAAAAJ&hl=en) and others at MIT.  \| [\[pic\]](https://drive.google.com/file/d/14xUQYq3QcvdpD6LN1pStaofJfEMAfdLi/view?usp=drive_link)
 - *2024.11*: &nbsp;🎉🎉🎉 Our project **Large Scale Rapid Internal State Estimation Technology and Applications for Sustainable Utilization of Retired Batteries** are granted the **first prize (rank 1st)** in the 3rd China Postgraduate “Carbon Peak and Carbon Neutrality” Innovation and Creativity Competition, hosted by China Postgraduate Innovation and Practice Competition Series ([CPIPC](https://cpipc.acge.org.cn/)).  \| [\[link\]](https://mp.weixin.qq.com/s/ZsflAzA3QusH4liDsUu-5g).
@@ -33,14 +33,14 @@ I have published serveral articles on **Nature Catalysis（2023）**, **Nature C
 - *2024.09*: &nbsp;🎉🎉🎉 I am visiting the Energy, Controls and Applications Lab (eCAL) at UC Berkeley, working with Prof. [Scott Moura](https://scholar.google.com/citations?user=5sLngc0AAAAJ&hl=zh-CN). 
 
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Energy Environ. Sci., (2025)</div><img src='images/EES D4EE03839H.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Energy Environ. Sci.,18, 1544 (2025)</div><img src='images/EES D4EE03839H.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Non-destructive degradation trajectory prediction needs observations that has not yet been established. [Here](https://pubs.rsc.org/en/content/articlelanding/2025/ee/d4ee03839h), the authors propose a physics-informed model to predict battery lifetime trajectories by computing thermodynamic and kinetic parameters, saving costly and time-consuming data curation for sustainable manufacturing, reuse, and recycling. 
 
 **Tao, S.**, Zhang, M., Zhao, Z.  _et al_. 
 
-Dataset [**here**](https://github.com/terencetaothucb/TBSI-Sunwoda-Battery-Dataset)
+Dataset [**here**](https://github.com/terencetaothucb/TBSI-Sunwoda-Battery-Dataset), Back Cover [**here**](https://drive.google.com/file/d/1h_ELcVdVCLSl0wsoJ-eHgXJpbHvNy-2Y/view?usp=drive_link)
 </div>
 </div>
 
