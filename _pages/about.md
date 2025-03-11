@@ -103,7 +103,7 @@ J = Journal, S = Submitted
 - [S1] Han, Z., **Tao, S.**, Jia, Y., et al., Discovering catalysis principles by crowd intelligence. 
 
 # 🎖 Honors and Awards
-- *2025.01*: &nbsp;🎉🎉🎉 I am nominated Youth Talent Support Project (Special Program for Doctoral Students) sponsored by the China Association for Science and Technology (CAST) and specifically by the China Society of Automotive Engineers ([CSAE](https://www.sae-china.org/)) 中国科协青年人才托举工程博士生专项计划. \| [\[pic\]](images/Talent Program.jpg)
+- *2025.01*: &nbsp;🎉🎉🎉 I am nominated Youth Talent Support Project (Special Program for Doctoral Students) sponsored by the China Association for Science and Technology (CAST) and specifically by the China Society of Automotive Engineers ([CSAE](https://www.sae-china.org/)) 中国科协青年人才托举工程博士生专项计划. My mentors are Professor [Minggao Ouyang](https://scholar.google.com.tw/citations?user=ESsh6q0AAAAJ&hl=zh-CN) and Professor [Jiangong Zhu](https://scholar.google.com/citations?user=uEkoH6AAAAAJ&hl=zh-CN). \| [\[pic\]](images/Talent Program.jpg)
 - *2024.12*: &nbsp;🎉🎉🎉 I am granted the [Wang Dazhong](https://en.wikipedia.org/wiki/Wang_Dazhong) Scholarship [王大中奖学金] (0.01%).
 - *2024.11*: &nbsp;🎉🎉🎉 My leading project **Large Scale Rapid Internal State Estimation Technology and Applications for Sustainable Utilization of Retired Batteries** are granted the **first prize (rank 1st)** in the 3rd China Postgraduate “Carbon Peak and Carbon Neutrality” Innovation and Creativity Competition, hosted by [CPIPC](https://cpipc.acge.org.cn/).
 - *2024.11*: &nbsp;🎉🎉🎉 I am nominated the Tsinghua Presidential Scholarship [清华大学特等奖学金] (0.01%, finalist).
