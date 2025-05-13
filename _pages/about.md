@@ -26,6 +26,7 @@ I have published serveral articles on **Nature Catalysis（2023）**, **Nature C
 
 Community Services:
 1️⃣ Peer Reviewer for Advances in applied energy, Chemical engineering journal, Energy technology, Expert systems with applications, Joule, Journal of Energy Chemistry, Journal of energy storage, Journal of industrial information integration, Journal of power sources, Nature communications, etc.
+
 2️⃣ Guest Editor at Electronics (MPDI) for the special issue [Advanced Control and AI Methods for Future Battery Diagnostics and Prognostics. More information [here](https://www.mdpi.com/journal/electronics/special_issues/3U9CT4W186).
 
 # 🔥 News
