@@ -24,7 +24,8 @@ Special attention is paid to state estimation, diagnosis and prognosis under **l
 
 I have published serveral articles on **Nature Catalysis（2023）**, **Nature Communications（2024a；2024b；2023）**, **Energy and Environmental Science（2025）**, **National Science Review**, **ACS Energy Letters**, **Journal of Energy Chemistry**, **Journal of Power Sources** and **Applied Energy**, etc.
 
-Community Services:
+**Community Services:**
+
 1️⃣ Peer Reviewer for Advances in applied energy, Chemical engineering journal, Energy technology, Expert systems with applications, Joule, Journal of Energy Chemistry, Journal of energy storage, Journal of industrial information integration, Journal of power sources, Nature communications, etc.
 
 2️⃣ Guest Editor at Electronics (MPDI) for the special issue [Advanced Control and AI Methods for Future Battery Diagnostics and Prognostics. More information [here](https://www.mdpi.com/journal/electronics/special_issues/3U9CT4W186).
