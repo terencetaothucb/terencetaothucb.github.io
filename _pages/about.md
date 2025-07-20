@@ -1,4 +1,5 @@
----
+
+--- 
 permalink: /
 title: ""
 excerpt: ""
@@ -17,28 +18,28 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m working on the interface of energy storage, power systems, electrochemistry and aritificail intelligence (AI), sponsored by a joint training program from Tsinghua University and UC Berkeley. I work with Prof. [Xuan Zhang](https://scholar.google.com/citations?hl=zh-CN&user=B-I9FY8AAAAJ&view_op=list_works&sortby=pubdate), [Guangmin Zhou](https://scholar.google.com/citations?user=smzbtMcAAAAJ&hl=zh-CN), [Scott Moura](https://scholar.google.com/citations?user=5sLngc0AAAAJ&hl=zh-CN) with a balanced focus on real wolrd applicaiton and theoretical depth. I was also a research intern in Tencent AI Lab and Microsoft Research Asia (MSRA). \| [\[CV\]](https://drive.google.com/file/d/1eEgB5__3nEZ55oIXMoy8QRGTP_YsY580/view?usp=drive_link) (updated 30 April 2025) 
+I’m working at the interface of energy storage, power systems, electrochemistry, and artificial intelligence (AI), sponsored by a joint training program from Tsinghua University and UC Berkeley. I work with Prof. [Xuan Zhang](https://scholar.google.com/citations?hl=zh-CN&user=B-I9FY8AAAAJ&view_op=list_works&sortby=pubdate), [Guangmin Zhou](https://scholar.google.com/citations?user=smzbtMcAAAAJ&hl=zh-CN), and [Scott Moura](https://scholar.google.com/citations?user=5sLngc0AAAAJ&hl=zh-CN), with a balanced focus on real-world application and theoretical depth. I was also a research intern at Tencent AI Lab and Microsoft Research Asia (MSRA). | [CV](https://drive.google.com/file/d/1eEgB5__3nEZ55oIXMoy8QRGTP_YsY580/view?usp=drive_link) (updated 30 April 2025)
 
-My research interest includes **AI**-enabled **applications** for **sustainable use of retired electric vehicle batteries** (reuse and recycling), e.g., power grid energy storage and critical material recycling.
-Special attention is paid to state estimation, diagnosis and prognosis under **limited and heterogeneous data availability**. I also work closely with material scientist on AI for Science (**AI4S**) topics, such as diagnosis and prognosis of lithium sulfur battereis and lithium metal batteries.
+My research interest includes **AI**-enabled **applications** for the **sustainable use of retired electric vehicle batteries** (reuse and recycling), e.g., power grid energy storage and critical material recycling.
+Special attention is paid to state estimation, diagnosis, and prognosis under **limited and heterogeneous data availability**. I also work closely with material scientists on AI for Science (**AI4S**) topics, such as diagnosis and prognosis of lithium-sulfur batteries and lithium-metal batteries.
 
-I have published serveral articles on **Nature Catalysis（2023）**, **Nature Communications（2024a；2024b；2023）**, **Energy and Environmental Science（2025）**, **National Science Review**, **ACS Energy Letters**, **Journal of Energy Chemistry**, **Journal of Power Sources** and **Applied Energy**, etc.
+I have published several articles in **Nature Catalysis (2023)**, **Nature Communications (2024a; 2024b; 2023)**, **Energy & Environmental Science (2025)**, **National Science Review**, **ACS Energy Letters**, **Journal of Energy Chemistry**, **Journal of Power Sources**, and **Applied Energy**, etc.
 
 **Community Services:**
 
-1️⃣ Peer Reviewer for Advances in applied energy, Chemical engineering journal, Energy technology, Expert systems with applications, Joule, Journal of Energy Chemistry, Journal of energy storage, Journal of industrial information integration, Journal of power sources, Nature communications, etc.
+1️⃣ Peer Reviewer for *Advances in Applied Energy*, *Chemical Engineering Journal*, *Energy Technology*, *Expert Systems with Applications*, *Joule*, *Journal of Energy Chemistry*, *Journal of Energy Storage*, *Journal of Industrial Information Integration*, *Journal of Power Sources*, *Nature Communications*, etc.
 
-2️⃣ Guest Editor at Electronics (MPDI) for the special issue _Advanced Control and AI Methods for Future Battery Diagnostics and Prognostics_. More information [here](https://www.mdpi.com/journal/electronics/special_issues/3U9CT4W186).
+2️⃣ Guest Editor at *Electronics* (MDPI) for the special issue _Advanced Control and AI Methods for Future Battery Diagnostics and Prognostics_. More information [here](https://www.mdpi.com/journal/electronics/special_issues/3U9CT4W186).
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉🎉 I am working as a Guest Editor at Electronics (MPDI) for the special issue _Advanced Control and AI Methods for Future Battery Diagnostics and Prognostics_. More information [here](https://www.mdpi.com/journal/electronics/special_issues/3U9CT4W186).
-- *2025.04*: &nbsp;🎉🎉🎉 I am excited to announce that our PulseRenew : diagnostics rapides des pulsations pour la réutilisation etle recyclage des batteries au lithium (PulseRenew: rapid pulse diagnostics for the reusing and recycling of lithium batteries) project has won the SilverMedal at the 50th Geneva Inventions Exhibition.  \| [\[pic\]](https://drive.google.com/file/d/1OapFqgghJvUg5YOzez0fqbbiZfMiLXp2/view?usp=drive_link)
-- *2025.03*: &nbsp;🎉🎉🎉 I was invited to the Battery Modeling Webinar Series (BMWS) for a globally attended talk, hosted by Hongyi Lin (UMich). The talk title is _Generative learning assisted state-of-health estimation for sustainable battery recycling with random retirement conditions_. \| [\[More Info\]](https://drive.google.com/file/d/1qreTnjy1ZLE5_4K4sBBwvcQtaLpCm2BK/view?usp=drive_link)
-- *2025.01*: &nbsp;🎉🎉🎉 Our [paper](https://pubs.rsc.org/en/content/articlelanding/2025/ee/d4ee03839h) has been published at Energy Environ. Sci., and selected as the back cover paper! \| [\[pic\]](https://drive.google.com/file/d/1h_ELcVdVCLSl0wsoJ-eHgXJpbHvNy-2Y/view?usp=drive_link)
-- *2024.12*: &nbsp;🪫♻️🔋 I am attending [The 3rd Battery Sustainability Workshop 2024](https://www.batterysustain.center/2024-workshop) initiated by Prof. [Martin Bazant](https://scholar.google.com.hk/citations?user=rcGnOdYAAAAJ&hl=en) and others at MIT.  \| [\[pic\]](https://drive.google.com/file/d/14xUQYq3QcvdpD6LN1pStaofJfEMAfdLi/view?usp=drive_link)
-- *2024.11*: &nbsp;🎉🎉🎉 Our project **Large Scale Rapid Internal State Estimation Technology and Applications for Sustainable Utilization of Retired Batteries** are granted the **first prize (rank 1st)** in the 3rd China Postgraduate “Carbon Peak and Carbon Neutrality” Innovation and Creativity Competition, hosted by China Postgraduate Innovation and Practice Competition Series ([CPIPC](https://cpipc.acge.org.cn/)).  \| [\[link\]](https://mp.weixin.qq.com/s/ZsflAzA3QusH4liDsUu-5g).
-**Special congratulations to Prof. Xuan Zhang for the Excellent Supervisor Award!** \| [\[pic\]](https://drive.google.com/file/d/1zrMu6KMKgSWA270YqsBsjzbb8QS60vU9/view?usp=drive_link)
-- *2024.09*: &nbsp;🎉🎉🎉 I am visiting the Energy, Controls and Applications Lab (eCAL) at UC Berkeley, working with Prof. [Scott Moura](https://scholar.google.com/citations?user=5sLngc0AAAAJ&hl=zh-CN). 
+- *2025.05*: 🎉🎉🎉 I am working as a Guest Editor at *Electronics* (MDPI) for the special issue _Advanced Control and AI Methods for Future Battery Diagnostics and Prognostics_. More information [here](https://www.mdpi.com/journal/electronics/special_issues/3U9CT4W186).
+- *2025.04*: 🎉🎉🎉 I am excited to announce that our PulseRenew: diagnostics rapides des pulsations pour la réutilisation et le recyclage des batteries au lithium (PulseRenew: rapid pulse diagnostics for the reusing and recycling of lithium batteries) project has won the Silver Medal at the 50th Geneva Inventions Exhibition. | [pic](https://drive.google.com/file/d/1OapFqgghJvUg5YOzez0fqbbiZfMiLXp2/view?usp=drive_link)
+- *2025.03*: 🎉🎉🎉 I was invited to the Battery Modeling Webinar Series (BMWS) for a globally attended talk, hosted by Hongyi Lin (UMich). The talk title is _Generative learning-assisted state-of-health estimation for sustainable battery recycling with random retirement conditions_. | [More Info](https://drive.google.com/file/d/1qreTnjy1ZLE5_4K4sBBwvcQtaLpCm2BK/view?usp=drive_link)
+- *2025.01*: 🎉🎉🎉 Our [paper](https://pubs.rsc.org/en/content/articlelanding/2025/ee/d4ee03839h) has been published in *Energy Environ. Sci.*, and selected as the back cover paper! | [pic](https://drive.google.com/file/d/1h_ELcVdVCLSl0wsoJ-eHgXJpbHvNy-2Y/view?usp=drive_link)
+- *2024.12*: 🪫♻️🔋 I am attending [The 3rd Battery Sustainability Workshop 2024](https://www.batterysustain.center/2024-workshop) initiated by Prof. [Martin Bazant](https://scholar.google.com.hk/citations?user=rcGnOdYAAAAJ&hl=en) and others at MIT. | [pic](https://drive.google.com/file/d/14xUQYq3QcvdpD6LN1pStaofJfEMAfdLi/view?usp=drive_link)
+- *2024.11*: 🎉🎉🎉 Our project **Large Scale Rapid Internal State Estimation Technology and Applications for Sustainable Utilization of Retired Batteries** was granted the **first prize (rank 1st)** in the 3rd China Postgraduate “Carbon Peak and Carbon Neutrality” Innovation and Creativity Competition, hosted by [CPIPC](https://cpipc.acge.org.cn/). | [link](https://mp.weixin.qq.com/s/ZsflAzA3QusH4liDsUu-5g).  
+**Special congratulations to Prof. Xuan Zhang for the Excellent Supervisor Award!** | [pic](https://drive.google.com/file/d/1zrMu6KMKgSWA270YqsBsjzbb8QS60vU9/view?usp=drive_link)
+- *2024.09*: 🎉🎉🎉 I am visiting the Energy, Controls and Applications Lab (eCAL) at UC Berkeley, working with Prof. [Scott Moura](https://scholar.google.com/citations?user=5sLngc0AAAAJ&hl=zh-CN).
 
 # 📝 Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Energy Environ. Sci.,18, 1544 (2025)</div><img src='images/EES D4EE03839H.png' alt="sym" width="100%"></div></div>
