@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m working at the interface of energy storage, power systems, electrochemistry, and artificial intelligence (AI), sponsored by a joint training program between Tsinghua University and UC Berkeley. I work with Prof. [Xuan Zhang](https://scholar.google.com/citations?hl=zh-CN&user=B-I9FY8AAAAJ&view_op=list_works&sortby=pubdate), [Guangmin Zhou](https://scholar.google.com/citations?user=smzbtMcAAAAJ&hl=zh-CN), and [Scott Moura](https://scholar.google.com/citations?user=5sLngc0AAAAJ&hl=zh-CN), with a balanced focus on real-world applications and theoretical depth. I was also a research intern at Tencent AI Lab and Microsoft Research Asia (MSRA). | [[CV]](https://drive.google.com/file/d/1eEgB5__3nEZ55oIXMoy8QRGTP_YsY580/view?usp=drive_link) (updated 1 August 2025)
+I’m working at the interface of energy storage, power systems, electrochemistry, and artificial intelligence (AI), sponsored by a joint training program between Tsinghua University and UC Berkeley. I work with Prof. [Xuan Zhang](https://scholar.google.com/citations?hl=zh-CN&user=B-I9FY8AAAAJ&view_op=list_works&sortby=pubdate), [Guangmin Zhou](https://scholar.google.com/citations?user=smzbtMcAAAAJ&hl=zh-CN), and [Scott Moura](https://scholar.google.com/citations?user=5sLngc0AAAAJ&hl=zh-CN), with a balanced focus on real-world applications and theoretical depth. I was also a research intern at Tencent AI Lab and Microsoft Research Asia (MSRA). | [[CV]](https://drive.google.com/file/d/1eEgB5__3nEZ55oIXMoy8QRGTP_YsY580/view?usp=drive_link) (updated 30 April 2025)
 
 My research interests include **AI-enabled applications** for the sustainable use of **retired electric vehicle batteries (reuse and recycling)**, such as power grid energy storage and critical material recycling.
 
@@ -32,6 +32,7 @@ I have published serveral articles on **Nature Catalysis（2023）**, **Nature C
 2️⃣ Guest Editor at Electronics (MPDI) for the special issue _Advanced Control and AI Methods for Future Battery Diagnostics and Prognostics_. More information [here](https://www.mdpi.com/journal/electronics/special_issues/3U9CT4W186).
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉🎉🎉 Our [paper](https://pubs.rsc.org/en/content/articlelanding/2025/ee/d5ee02217g) has been published at Energy Environ. Sci., and selected as the back cover paper and [HOT paper](https://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=ee&themeid=22dee533-f7c4-4bca-8bf0-5411bcbc28ff)! \| [\[pic\]](https://drive.google.com/file/d/1xLiZDJQYA2x1Y73X90zH1LTf0hWg_gy5/view?usp=drive_link)
 - *2025.05*: &nbsp;🎉🎉🎉 I am working as a Guest Editor at Electronics (MPDI) for the special issue _Advanced Control and AI Methods for Future Battery Diagnostics and Prognostics_. More information [here](https://www.mdpi.com/journal/electronics/special_issues/3U9CT4W186).
 - *2025.04*: &nbsp;🎉🎉🎉 I am excited to announce that our PulseRenew : diagnostics rapides des pulsations pour la réutilisation etle recyclage des batteries au lithium (PulseRenew: rapid pulse diagnostics for the reusing and recycling of lithium batteries) project has won the SilverMedal at the 50th Geneva Inventions Exhibition.  \| [\[pic\]](https://drive.google.com/file/d/1OapFqgghJvUg5YOzez0fqbbiZfMiLXp2/view?usp=drive_link)
 - *2025.03*: &nbsp;🎉🎉🎉 I was invited to the Battery Modeling Webinar Series (BMWS) for a globally attended talk, hosted by Hongyi Lin (UMich). The talk title is _Generative learning assisted state-of-health estimation for sustainable battery recycling with random retirement conditions_. \| [\[More Info\]](https://drive.google.com/file/d/1qreTnjy1ZLE5_4K4sBBwvcQtaLpCm2BK/view?usp=drive_link)
@@ -42,6 +43,17 @@ I have published serveral articles on **Nature Catalysis（2023）**, **Nature C
 - *2024.09*: &nbsp;🎉🎉🎉 I am visiting the Energy, Controls and Applications Lab (eCAL) at UC Berkeley, working with Prof. [Scott Moura](https://scholar.google.com/citations?user=5sLngc0AAAAJ&hl=zh-CN). 
 
 # 📝 Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Energy Environ. Sci.,18, 1544 (2025)</div><img src='images/EES d5ee02217g.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Assessing the remaining capacity of retired lithium-ion batteries is essential for unlocking their second-life potential in under-resourced regions. However, this process is hindered by data scarcity and heterogeneity. [This work](https://pubs.rsc.org/en/content/articlelanding/2025/ee/d5ee02217g) proposed a deep generative transfer learning that can synthesize realistic pulse voltage response and align heterogeneous data domains without requiring historical records. The approach achieves high prediction accuracy with minimal field data, outperforming existing learning methods. It offers a scalable, data-efficient pathway toward sustainable, cost-effective battery repurposing and supports equitable energy transitions in the circular economy.
+
+**Tao, S.** _et al_. 
+
+Code [**here**](https://github.com/terencetaothucb/Immediate-remaining-capacity-estiamtion-of-second-life-batteries), Back Cover [**here**](https://drive.google.com/file/d/1xLiZDJQYA2x1Y73X90zH1LTf0hWg_gy5/view?usp=drive_link), HOT paper collection [**here**](https://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=ee&themeid=22dee533-f7c4-4bca-8bf0-5411bcbc28ff)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Energy Environ. Sci.,18, 1544 (2025)</div><img src='images/EES D4EE03839H.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -87,7 +99,7 @@ Selected as [**Top 25 paper**](https://www.nature.com/collections/bchahibchi) an
 </div>
 
 J = Journal, S = Submitted
-
+- [J24] **Shengyu Tao#** _et al._ Immediate remaining capacity estimation of heterogeneous second-life lithium-ion batteries via deep generative transfer learning. _Energy Environ. Sci._, 2025,**18**, 7413-7426. Click to [view](https://pubs.rsc.org/en/content/articlelanding/2025/ee/d5ee02217g). 
 - [J23] Xinghao Huang, **Shengyu Tao#**, Chen Liang, Ruifei Ma, Xuelu Wang, Bizhong Xia, Xuan Zhang. Robust and generalizable lithium-ion battery health estimation using multi-scale field data decomposition and fusion. _Journal of Power Sources_ **642**, 236939 (2025). Click to [view](https://doi.org/10.1016/j.jpowsour.2025.236939). 
 - [J22] Chen Liang, **Shengyu Tao#**, Xinghao Huang, Yezhen Wang, Bizhong Xia, Xuan Zhang. Stochastic state of health estimation for lithium-ion batteries with automated feature fusion using quantum convolutional neural network. _Journal of Energy Chemistry_ **106**, 205-219 (2025). Click to [view](https://doi.org/10.1016/j.jechem.2025.02.030). 
 - [J21] Zhihong Piao, Zhiyuan Han, **Shengyu Tao#**, Mengtian Zhang, Gongxun Lu, Lin Su, Xinru Wu, Yanze Song, Xiao Xiao, Xuan Zhang, Guangmin Zhou, Hui-Ming Cheng. Deciphering failure paths in lithium metal anodes by electrochemical curve fingerprints. _National Science Review_ (2025). Click to [view](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf158/8119407). 
